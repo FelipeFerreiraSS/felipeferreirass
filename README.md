@@ -17,6 +17,6 @@
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="felipeferreirass" /></p>
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="felipeferreirass" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="felipeferreirass" /></p>
 
 </p>
