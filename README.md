@@ -1,4 +1,4 @@
-<img src="./img/developer.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Developer">
+<img src="./img/developer.jpg" min-width="400px" max-width="500px" width="500px" align="right" alt="Developer">
 
 <h2 align="left">Olá, eu sou o Felipe 👋</h1>
 <p align=left>💻 <strong>Sou desenvolvedor Web</strong>.</p>
