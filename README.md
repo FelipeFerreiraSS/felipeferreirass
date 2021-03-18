@@ -1,10 +1,9 @@
 <img src="./img/developer.png" min-width="400px" max-width="500px" width="500px" align="right" alt="Developer">
 
 <h2 align="left">Olá, eu sou o Felipe 👋</h1>
-<p align="left">💻 <strong>Sou desenvolvedor Web</strong>.</p>
+<p align="left">💻 <strong>Sou desenvolvedor Front-End Júnior</strong>.</p>
 <p align="left">🎓 Skills: <strong>HTML5, CSS3, WordPress, Java Script, PHP, SQL server, MySQL</strong></p>
 <p align="left">📚 Estudando:<strong>React Js, Next Js e Node Js</strong></p>
-<p align="left">🎯 Futuro Full Stack</p>
 <p align="left">📬 Networks: </p>
 
 <p align="left">
