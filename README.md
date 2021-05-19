@@ -20,6 +20,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="felipeferreirass" />
   
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felipeferreirass)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeferreirass&count_private=true&theme=dark&hide_border" alt="felipeferreirass's streaks" height="175"/>
 </p>
 
