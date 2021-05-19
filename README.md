@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="felipeferreirass" />
 </p>
   
@@ -23,4 +23,3 @@
 </p>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felipeferreirass)](https://github.com/anuraghazra/github-readme-stats)
-
