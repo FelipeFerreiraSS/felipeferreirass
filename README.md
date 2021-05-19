@@ -1,5 +1,7 @@
 <img src="./img/developer.png" min-width="400px" max-width="500px" width="500px" align="right" alt="Developer">
 
+<p align="center"><img src="https://profile-counter.glitch.me/{felipeferreirass}/count.svg" alt="felipeferreirass :: Visitor's Count" /></p>
+
 <h2 align="left">Olá, eu sou o Felipe 👋</h1>
 <p align="left">💻 <strong>Sou desenvolvedor Front-End Júnior</strong>.</p>
 <p align="left">🎓 Skills: <strong>HTML5, CSS3, WordPress, Java Script, SQL server, MySQL</strong></p>
@@ -17,5 +19,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="felipeferreirass" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="felipeferreirass" />
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeferreirass&count_private=true&theme=dark&hide_border" alt="felipeferreirass's streaks" height="175"/>
+</p>
 
 </p>
