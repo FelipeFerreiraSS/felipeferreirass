@@ -30,8 +30,9 @@
 <h3 align="left">📬 Networks: </h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/felipeferreiradev/" target="_blank"><img src="https://img.shields.io/badge/felipeferreiradev-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="felipeferreirasilva.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/felipeferreirasilva.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:felipeferreirasilva.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/felipeferreirasilva.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   <a href="https://github.com/FelipeFerreiraSS" target="_blank"><img src="https://img.shields.io/badge/FelipeFerreiraSS-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
   
   [comment]: <> (
