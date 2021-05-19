@@ -15,14 +15,12 @@
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="felipeferreirass" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="felipeferreirass" />
+</p>
   
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreirass&langs_count=8&theme=dark&hide_border" alt="felipeferreirass" />
+</p>
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felipeferreirass)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeferreirass&count_private=true&theme=dark&hide_border" alt="felipeferreirass's streaks" height="175"/>
-</p>
-
-</p>
