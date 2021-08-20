@@ -16,24 +16,18 @@
   ![Mysql](https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   ![WordPress](https://img.shields.io/badge/wordpress%20-%231572B6.svg?&style=for-the-badge&logo=wordpress&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-  
-</div>
-<h3 align="left">📚 Estudando:</h3>
-<div>
-  
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
   ![NextJs](https://img.shields.io/badge/next%20js%20-%23121011.svg?&style=for-the-badge&logo=next.js&logoColor=white)
   
 </div>
 
 <h3 align="left">📬 Networks: </h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/felipeferreiradev/" target="_blank"><img src="https://img.shields.io/badge/felipeferreiradev-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/felipeferreiradev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:felipeferreirasilva.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/felipeferreirasilva.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/FelipeFerreiraSS" target="_blank"><img src="https://img.shields.io/badge/FelipeFerreiraSS-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
+  <a href="https://github.com/FelipeFerreiraSS" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
   
   [comment]: <> (
    <a href="https://www.instagram.com/ctiagocv" target="_blank"><img src="https://img.shields.io/badge/ctiagocv-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -51,6 +45,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeferreirass&count_private=true&theme=dark&hide_border" alt="felipeferreirass's streaks" height="165"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreirass&langs_count=8&theme=dark&hide_border" alt="felipeferreirass" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreirass&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
