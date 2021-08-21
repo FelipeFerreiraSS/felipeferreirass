@@ -41,8 +41,8 @@
 </p>
 <hr>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="felipeferreirass" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeferreirass&count_private=true&theme=dark&hide_border=true" alt="felipeferreirass's streaks" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=felipeferreirass&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="felipeferreirass" height="135"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeferreirass&count_private=true&theme=dark&hide_border=true" alt="felipeferreirass's streaks" height="135"/>
 </p>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreirass&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
