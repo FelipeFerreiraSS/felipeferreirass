@@ -45,6 +45,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeferreirass&count_private=true&theme=dark&hide_border=true" alt="felipeferreirass's streaks" height="135"/>
 </p>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreirass&layout=compact&langs_count=3&theme=dark&hide_border=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreirass&layout=compact&langs_count=3&theme=dark&hide_border=true"/>
 </p>
 
