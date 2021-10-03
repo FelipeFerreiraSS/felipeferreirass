@@ -2,7 +2,7 @@
 <p align="right"><img src="https://profile-counter.glitch.me/{felipeferreirass}/count.svg" alt="felipeferreirass :: Visitor's Count" /></p>
 
 <h1 align="center">Olá, eu sou o Felipe 👋</h1>
-<h2 align="center">💻 <strong>Sou desenvolvedor Front-End Júnior</strong>.</h2>
+<!--<h2 align="center">💻 <strong>Sou desenvolvedor Front-End Júnior</strong>.</h2>-->
 
 <h3 align="left">🎓 Skills:</h3>
 <div>
@@ -12,12 +12,12 @@
   ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-  ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-  ![Mysql](https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-  ![WordPress](https://img.shields.io/badge/wordpress%20-%231572B6.svg?&style=for-the-badge&logo=wordpress&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![NextJs](https://img.shields.io/badge/next%20js%20-%23121011.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+  <!--![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+  ![Mysql](https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/wordpress%20-%231572B6.svg?&style=for-the-badge&logo=wordpress&logoColor=white)-->
   
 </div>
 
@@ -45,6 +45,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeferreirass&count_private=true&theme=dark&hide_border=true" alt="felipeferreirass's streaks" height="135"/>
 </p>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreirass&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeferreirass&layout=compact&langs_count=3&theme=dark&hide_border=true"/>
 </p>
 
