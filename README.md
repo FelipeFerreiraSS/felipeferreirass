@@ -2,7 +2,7 @@
 <p align="right"><img src="https://profile-counter.glitch.me/{felipeferreirass}/count.svg" alt="felipeferreirass :: Visitor's Count" /></p>
  -->
 <h1 align="">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Felipe</h1>
-<!--<h2 align="center">💻 <strong>Sou desenvolvedor Front-End Júnior</strong>.</h2>-->
+<h2 align="">🤓 Sou estudante de Análise e Desenvolvimento de Sistemas com foco no Front-End.</h2>
 
 <h3 align="left">🎓 Skills:</h3>
 <div>
