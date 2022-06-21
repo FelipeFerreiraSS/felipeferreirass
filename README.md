@@ -1,7 +1,7 @@
 <!-- <p align="right">👀 Você é o visitante número:</p>
 <p align="right"><img src="https://profile-counter.glitch.me/{felipeferreirass}/count.svg" alt="felipeferreirass :: Visitor's Count" /></p>
  -->
-<h1 align="">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Felipe</h1>
+<h1 align="">Olá, eu sou o Felipe</h1>
 <h2 align="">🤓 Desenvolvedor Front-End.</h2>
 
 <h3 align="left">🎓 Skills:</h3>
